@@ -1,0 +1,29 @@
+From 48e3ecdb9cbf7a23d095d5767cb206b0d8053e36 Mon Sep 17 00:00:00 2001
+From: Jumpei Asanuma <asanuma@monosus.co.jp>
+Date: Wed, 4 Aug 2021 16:29:34 +0900
+Subject: [PATCH] =?UTF-8?q?=E3=82=BF=E3=82=A4=E3=83=88=E3=83=AB=E5=A4=89?=
+ =?UTF-8?q?=E6=9B=B4?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index ae8c9e7..11e3ee7 100644
+--- a/index.html
++++ b/index.html
+@@ -21,7 +21,7 @@
+ <div class="container">
+ <div class="row">
+     <div class="col span-12 header">
+-        <h1><a href="">『勉強会』</a></h1>
++        <h1><a href="">勉強会（開発中）</a></h1>
+ 		<div class="header-box"><a href=""><span class="contact-button">お問い合わせ</span></a></div>
+         </div>
+     </div>
+-- 
+2.29.2.windows.2
+
