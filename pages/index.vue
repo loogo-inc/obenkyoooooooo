@@ -5,7 +5,7 @@
         <logo />
         <vuetify-logo />
       </div>
-      <h2><a href="/corp.html">Goto corporate page (企業ページへ)</a></h2>
+      <h2><a href="/corporation.html">Goto corporate page (企業ページへ)</a></h2>
       <v-card>
         <v-card-title class="headline">
           Welcome to the Vuetify + Nuxt.js template
