@@ -5,7 +5,7 @@
         <logo />
         <vuetify-logo />
       </div>
-      <h2><a href="/corp.html">Goto corporate page (äÈã∆ÉyÅ[ÉWÇ÷)</a></h2>
+      <h2><a href="/corp.html">Goto corporate page (‰ºÅÊ•≠„Éö„Éº„Ç∏„Å∏)</a></h2>
       <v-card>
         <v-card-title class="headline">
           Welcome to the Vuetify + Nuxt.js template
