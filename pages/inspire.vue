@@ -7,10 +7,10 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        「まず、問題を解決します。次に、コードを記述します。」
         <footer>
           <small>
-            <em>&mdash;John Johnson</em>
+            <em>&mdash;ジョン・ジョンソン</em>
           </small>
         </footer>
       </blockquote>
