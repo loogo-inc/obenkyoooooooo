@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>let's start team development(test mode | ƒeƒXƒg—p‚¾‚æ).</h1>
+    <h1>let's start team development(test mode | ãƒ†ã‚¹ãƒˆç”¨ã ã‚ˆ).</h1>
   </div>
 </template>
 
