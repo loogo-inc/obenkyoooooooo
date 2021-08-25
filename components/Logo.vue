@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>let's start team development(test mode | �e�X�g�p����).</h1>
+    <h1>チーム開発（テストモード）を始めましょう。</h1>
   </div>
 </template>
 
