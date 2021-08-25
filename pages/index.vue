@@ -5,7 +5,7 @@
         <logo />
         <vuetify-logo />
       </div>
-      <h2><a href="/corp.html">企業ページに移動（ ƃy [ W ）</a></h2>
+      <h2><a href="/corp.html">企業ページに移動</a></h2>
       <v-card>
         <v-card-title class="headline">
           Vuetify + Nuxt.jsテンプレートへようこそ
