@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>{{ new Date().toString() }}</p>
     <div class="catch">
       <h2><span class="under">俺がナンバーワン！</span></h2>
       <p>ここにキャッチコピーが入ります。<br />お店の宣伝やコンセプトなど。魅せる文言を入力。</p>
