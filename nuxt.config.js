@@ -9,7 +9,7 @@ export default {
     titleTemplate: '%s - benkyoooooo',
     title: 'benkyoooooo',
     htmlAttrs: {
-      lang: 'ja'
+      lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
